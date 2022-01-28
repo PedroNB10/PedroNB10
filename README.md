@@ -32,13 +32,12 @@ Here are some ideas to get you started:
   
 </div>
   
+  <br/>
   
   <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
-Social Network </h1>
+Social Networking </h1>
   
    
-     
-  
 <p align="center" style="background:yellow">
 <a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
 </a>
@@ -60,22 +59,23 @@ Social Network </h1>
   
 </p>
   
-  
+
   
 <h1 align="center">                                                                                                                                                       
 Studies and Technologies </h1>
   
+  <p align="center" style="background:yellow">
+ <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+ <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+   <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+   <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
+   <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+   <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+   <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+
+  </p>
   
 
-  
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)                                        
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
   
   
