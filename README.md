@@ -67,7 +67,7 @@ Social Networking </h1>
 
   
 <h1 align="center">                                                                                                                                                       
-Studies and Technologies </h1>
+💻 Studies and Technologies </h1>
   
   <p align="center" style="background:yellow">
  <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
