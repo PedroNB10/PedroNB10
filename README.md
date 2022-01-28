@@ -81,7 +81,7 @@ Studies and Technologies </h1>
   </p>
   
   <div>
-  <a href="https://github.com/MartinHeinz/go-project-blueprint" >
+  <a href="https://github.com/PedroNB10/DevClub-Projects" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
     
