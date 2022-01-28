@@ -1,6 +1,8 @@
 ### Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
-
+<h1 align="center">
+  <img src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
+</h1>
 
 
 <!--
