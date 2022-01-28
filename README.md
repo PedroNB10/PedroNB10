@@ -1,4 +1,4 @@
-### Olá pessoal, sejam bem-vindos ao meu github !!!😄
+### Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
 <!--
 **PedroNB10/PedroNB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <br/>
 <div align="center">
   <a href="https://github.com/PedroNB10">
@@ -29,5 +31,59 @@ Here are some ideas to get you started:
  
   
 </div>
+  
+  
+  <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
+Social Network </h1>
+  
+   
+     
+  
+<p align="center" style="background:yellow">
+<a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/nogueira_dev/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+  
+  
+   <a href="https://discordapp.com/users/690241156792975377/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="discord"/>
+</a>
+  
+  <a href="https://www.youtube.com/channel/UCPhZgWJGIMvDvdOb0eDhk1w" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+  
+</p>
+  
+  
+  
+<h1 align="center">                                                                                                                                                       
+Studies and Technologies </h1>
+  
+  
+
+  
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)                                        
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+  
+  
+
+ 
+
+
+
+ 
   
  
