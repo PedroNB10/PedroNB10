@@ -2,7 +2,10 @@
 
 <h1 align="center">
   <img src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
+  <img  height="350" width="350" src="https://github.com/PedroNB10/PedroNB10/blob/main/ReadyPlayerMe-Avatar.png" alt="Pedro Nogueira Barboza" />
 </h1>
+
+
 
 
 <!--
