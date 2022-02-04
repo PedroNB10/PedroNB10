@@ -1,7 +1,7 @@
 ### Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
 <h1 align="center">
-  
+  <img  height="400" width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
   <img  height="350" width="350" src="https://github.com/PedroNB10/PedroNB10/blob/main/ReadyPlayerMe-Avatar.png" alt="Pedro Nogueira Barboza" />
 </h1>
 
