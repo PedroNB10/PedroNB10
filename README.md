@@ -1,5 +1,14 @@
 ### Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+
+
 <div align="center" style="display: flex;" >
   <div  style="display: flex;" >
   <img  height="350" width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
