@@ -2,14 +2,15 @@
 
 
 
-<div align="center" >
+ <div style="display: flex;">
   <div align="left" >
   <img  width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
   </div>
   
-  <div align="right" >
+<div align="right" >
 <img  height="350" width="450" src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif" alt="Pedro Nogueira Barboza" />
 </div>
+  
 </div>
 
 
