@@ -1,4 +1,4 @@
-### Hi, welcome to my git hub! take a look at my repositories!!! 😄
+# Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
 
 
@@ -89,7 +89,7 @@ Social Networking </h1>
    <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
   </p>
-  
+<h1 align="center">👨🏼‍💻 Some Projects</h1>
   <div align="center">
   <a href="https://github.com/PedroNB10/DevClub-Projects" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroNB10&repo=DevClub-Projects&&theme=algolia"&theme=algolia"" />
