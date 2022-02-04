@@ -1,10 +1,10 @@
 ### Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
-<h1 align="center" style="display: flex;" >
+<div  style="display: flex;" >
   
   <img  height="350" width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
 <img  height="350" width="450" src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif" alt="Pedro Nogueira Barboza" />
-</h1>
+</div>
 
 
 
