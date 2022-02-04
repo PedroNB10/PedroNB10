@@ -4,7 +4,7 @@
 
  <div style="display: flex;">
   <div align="left" >
-  <img  width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
+  <img  height="350" width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
   </div>
   
 <div align="right" >
