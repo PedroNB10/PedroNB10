@@ -1,6 +1,6 @@
 # Hi, welcome to my git hub! take a look at my repositories!!! 😄
 
-
+&hide=C
 
 <div align="center">
 
