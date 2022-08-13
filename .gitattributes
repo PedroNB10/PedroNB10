@@ -1,2 +1,4 @@
+$ cat .gitattributes
+
 *.c linguist-detectable=false
 *.html linguist-detectable=false
