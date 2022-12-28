@@ -91,8 +91,7 @@ Social Networking </h1>
 <h1 align="center">👨🏼‍💻 Certificates</h1>
   <div align="center">
   <a href="https://github.com/PedroNB10/Certificados-de-Cursos" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroNB10&repo=
-Certificados-de-Cursos&&theme=algolia"&theme=algolia"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroNB10&repo=Certificados-de-Cursos&&theme=algolia"&theme=algolia"" />
 </a>    
     
   </div>
