@@ -88,11 +88,7 @@ Social Networking </h1>
    <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
   </p>
-<h1 align="center">👨🏼‍💻 Certificates</h1>
-  <div align="center">
-  <a href="https://github.com/PedroNB10/Certificados-de-Cursos" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroNB10&repo=Certificados-de-Cursos&&theme=algolia"&theme=algolia"" />
-</a>    
+
     
   </div>
   
