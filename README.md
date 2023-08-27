@@ -64,13 +64,7 @@ Social Networking </h1>
 </a>
   
   
-   <a href="https://discordapp.com/users/690241156792975377/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
-  
-  <a href="https://www.youtube.com/channel/UCPhZgWJGIMvDvdOb0eDhk1w" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+
   
 </p>
   
