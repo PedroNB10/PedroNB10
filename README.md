@@ -1,7 +1,8 @@
-# About me
+  <h1 align="center">                                                                                                                                                       
+About Me </h1>
 
 
-<img  width="350" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
+<img align="center" width="350" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
 
 <img align="right" height="250" alt="img-pedro" height="380" src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif">
 
