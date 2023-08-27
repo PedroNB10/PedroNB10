@@ -1,16 +1,14 @@
+# About me
 
 
-<img align="right" width="450" alt="img-pedro" height="380" src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif">
+<img  width="350" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
 
-
-<img align="left" width="400" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
-<br>
-<br>
+<img align="right" height="250" alt="img-pedro" height="380" src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif">
 
 ---
 
 
-<p align="justify">I'm graduating Information Systems in Federal University of Itajubá. I am a technology enthusiast, I love to study and laern more about how I can impact people's lives using the technologies I know and
+<p align="left">I'm graduating Information Systems in Federal University of Itajubá. I am a technology enthusiast, I love to study and laern more about how I can impact people's lives using the technologies I know and
   my knowledge about the area envolved. My first Hello world was since 12 years old, learning about robotics with arduino language. Today, I'm studying as hard as I can and making projects to grow my skills.
 <br>
 <br>
