@@ -4,7 +4,7 @@ About Me </h1>
 
 <img align="center" width="350" src="https://github.com/PedroNB10/PedroNB10/blob/main/name.svg" alt="Pedro Nogueira Barboza" />
 
-<img align="right" height="250" alt="img-pedro"  src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif">
+<img align="right" height="230" alt="img-pedro"  src="https://github.com/PedroNB10/PedroNB10/blob/main/imagem%20programando.gif">
 
 ---
 
