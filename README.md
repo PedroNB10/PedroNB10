@@ -9,7 +9,7 @@ About Me </h1>
 ---
 
 
-<p align="left">I'm graduating Information Systems in Federal University of Itajubá. I am a technology enthusiast, I love to study and laern more about how I can impact people's lives using the technologies I know and
+<p align="left">I'm graduating Information Systems in Federal University of Itajubá. I am a technology enthusiast, I love to study and laern more about how <br>I can impact people's lives using the technologies I know and
   my knowledge about the area envolved. My first Hello world was since 12 years old, learning about robotics with arduino language. Today, I'm studying as hard as I can and making projects to grow my skills.
 <br>
 <br>
