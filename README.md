@@ -36,14 +36,9 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/PedroNB10">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNB10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNB10&hide=makefile,assembly,c%2B%2B&layout=compact&langs_count=7&theme=algolia"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNB10&show_icons=true&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNB10&hide=makefile,assembly,c%2B%2B,c%23,jupyter%20notebook&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/> 
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=PedroNB10&theme=algolia&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
   
 </div>
   
@@ -57,11 +52,9 @@ Social Networking </h1>
 <a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/pedro-nogueira-barboza-2178ba211/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/nogueira_dev/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
   
   
 
@@ -74,13 +67,14 @@ Social Networking </h1>
 💻 Studies and Technologies </h1>
   
   <p align="center" style="background:yellow">
- <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
- <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-   <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-   <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-   <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-   <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-   <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+ <img align="center" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"/>
+ <img align="center" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+   <img align="center" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+   <img align="center" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4"/>
+   <img align="center" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+   <img align="center" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+   <img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
 
   </p>
 
