@@ -73,13 +73,23 @@ Social Networking </h1>
 💻 Studies and Technologies </h1>
   
   <p align="center" style="background:yellow">
- <img align="center" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"/>
- <img align="center" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
-   <img align="center" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
-   <img align="center" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4"/>
-   <img align="center" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
-   <img align="center" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+
+  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js" />
+   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+ 
+ 
+ <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+   <img align="center" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c"/>
+   <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
    <img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+   <img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+   
 
 
   </p>
